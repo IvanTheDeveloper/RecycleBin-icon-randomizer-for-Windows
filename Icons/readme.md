@@ -4,11 +4,11 @@ Instrucciones (en orden):
 
 	1-Descomprimir el archivo ".zip".
 
-	2-Para hacer que el programa se ejecute al inicio o deje de hacerlo, de manera que cada vez que se encienda el PC haya un icono aleatorio, basta con abrir el archivo 	config.ini y establecer como "true" el valor "startup".
+	2-Para hacer que el programa se ejecute al inicio o deje de hacerlo, de manera que cada vez que se encienda el PC haya un icono aleatorio, basta con abrir el archivo config.ini y establecer como "true" el valor "startup".
 
-	3-Si se quieren añadir iconos extra, simplemente hay que meter los archivos .ico en las carpetas "full" y "empty" respectivamente, asignandoles un nombre que será el 	número sucesivo al del resto de iconos (el mismo para ambos archivos).
+	3-Si se quieren añadir iconos extra, simplemente hay que meter los archivos .ico en las carpetas "full" y "empty" respectivamente, asignandoles un nombre que será el número sucesivo al del resto de iconos (el mismo para ambos archivos).
 
-	Por ejemplo, si queremos añadir un icono extra, y en la carpeta "empty" tenemos los archivos "1.ico", "2.ico" y "3.ico", tendriamos que nombrar a nuestro archivo 	"4.ico". Mismo proceso para la carpeta "full". Cabe destacar que ambas carpetas deben tener el mismo número de archivos, y estos ser complementarios en imagen y 	número si se desea obtener el resultado esperado.
+	Por ejemplo, si queremos añadir un icono extra, y en la carpeta "empty" tenemos los archivos "1.ico", "2.ico" y "3.ico", tendriamos que nombrar a nuestro archivo "4.ico". Mismo proceso para la carpeta "full". Cabe destacar que ambas carpetas deben tener el mismo número de archivos, y estos ser complementarios en imagen y número si se desea obtener el resultado esperado.
 
 ¿Qué vas a encontrar en este directorio?:
 Carpeta "empty" donde se almacenarán los iconos de papelera vacía.
